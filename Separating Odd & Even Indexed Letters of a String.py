@@ -17,6 +17,8 @@ Constraints :
 Output Format : 
 
 For each String  (where 0<J<T-1 ), print 's even-indexed characters, followed by a space, followed by 's odd-indexed characters.
+
+Link : https://www.hackerrank.com/challenges/30-review-loop/problem
 """
 
 def strman():
