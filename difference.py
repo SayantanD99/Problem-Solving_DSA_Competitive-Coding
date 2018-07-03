@@ -12,6 +12,9 @@ The first line contains the first integer,a. The second line contains the second
 Output Format :
 
 Print the two lines as described above.
+
+Link : https://www.hackerrank.com/challenges/python-division/problem
+
 """
 
 if __name__ == '__main__':
