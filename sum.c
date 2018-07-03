@@ -24,7 +24,9 @@ Sample Output
 
 Explanation
 
-The sum of the two integers  and  is computed as: 5 */
+The sum of the two integers  and  is computed as: 5 
+
+Link :https://www.hackerrank.com/challenges/solve-me-first/problem */
 
 #include <stdio.h>
 #include <string.h>
