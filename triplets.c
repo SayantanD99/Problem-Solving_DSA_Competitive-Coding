@@ -1,4 +1,6 @@
-#Compare The Triplets
+/*  Compare The Triplets
+
+Link : https://www.hackerrank.com/challenges/compare-the-triplets/problem */
 
 #include <math.h>
 #include <stdio.h>
