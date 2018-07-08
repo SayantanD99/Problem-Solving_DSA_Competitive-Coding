@@ -1,4 +1,4 @@
-#https://www.hackerrank.com/challenges/diagonal-difference/problem
+#Link : https://www.hackerrank.com/challenges/diagonal-difference/problem
 
 n = int(input().strip())
 
