@@ -1,4 +1,4 @@
-# HackerRank_Problems
+# Competitive_Coding
 
 This repository contains few Programs which I have solved on HackerRank,HackerEarth,& CodeChef.
 
