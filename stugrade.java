@@ -7,7 +7,7 @@ You are given two classes, Person and Student, where Person is the base class an
 Completed code for Person and a declaration for Student are provided for you in the editor. 
 Observe that Student inherits all the properties of Person.
 
-Link : https://www.hackerrank.com/challenges/30-inheritance/copy-from/78173867
+Link : https://www.hackerrank.com/challenges/30-inheritance/problem
 
 */
 
